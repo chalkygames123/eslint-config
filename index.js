@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ['airbnb-base', 'plugin:eslint-comments/recommended', 'prettier'],
+  extends: ['airbnb-base', 'plugin:eslint-comments/recommended'],
   env: {
     browser: true,
     es2021: true,
