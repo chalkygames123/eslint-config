@@ -6,7 +6,7 @@
 [![Renovate: enabled](https://img.shields.io/badge/Renovate-enabled-brightgreen?logo=RenovateBot&logoColor=fff)](https://renovatebot.com/)
 [![CI](https://github.com/chalkygames123/eslint-config/actions/workflows/ci.yml/badge.svg)](https://github.com/chalkygames123/eslint-config/actions/workflows/ci.yml)
 
-Default eslint config used by @chalkygames123.
+Default ESLint config used by @chalkygames123.
 
 ## Install
 
