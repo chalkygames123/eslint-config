@@ -1,3 +1,14 @@
+## [2.0.0](https://github.com/chalkygames123/eslint-config/compare/v1.0.0...v2.0.0) (2021-04-08)
+
+
+### ⚠ BREAKING CHANGES
+
+* `eslint-config-prettier` is no longer extended to make it optional and allow users to extend additional configs.
+
+### Bug Fixes
+
+* stop extending `eslint-config-prettier` ([f7411d8](https://github.com/chalkygames123/eslint-config/commit/f7411d8d17087c0e21f38b7e68aa8233f1012f6d))
+
 ## 1.0.0 (2021-04-07)
 
 
