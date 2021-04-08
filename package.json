@@ -15,6 +15,7 @@
   "bugs": {
     "url": "https://github.com/chalkygames123/eslint-config/issues"
   },
+  "main": "index.js",
   "scripts": {
     "fix": "run-s \"lint -- --fix\"",
     "format": "run-s \"format-check -- --write\"",
