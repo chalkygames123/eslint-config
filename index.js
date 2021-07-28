@@ -4,9 +4,6 @@ module.exports = {
     browser: true,
     es2021: true,
   },
-  parserOptions: {
-    ecmaVersion: 2021,
-  },
   reportUnusedDisableDirectives: true,
   rules: {
     'eslint-comments/disable-enable-pair': [
