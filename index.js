@@ -12,7 +12,6 @@ module.exports = {
         allowWholeFile: true,
       },
     ],
-    'import/no-default-export': ['error'],
     'import/order': [
       'error',
       {
