@@ -1,3 +1,10 @@
+## [2.1.0](https://github.com/chalkygames123/eslint-config/compare/v2.0.1...v2.1.0) (2021-08-22)
+
+
+### Features
+
+* add `eslint-plugin-regexp` plugin ([67425ec](https://github.com/chalkygames123/eslint-config/commit/67425ecf06563aa432bf9b9074c59c99b8c3dfe8))
+
 ### [2.0.1](https://github.com/chalkygames123/eslint-config/compare/v2.0.0...v2.0.1) (2021-08-16)
 
 
