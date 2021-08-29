@@ -1,3 +1,10 @@
+### [2.1.1](https://github.com/chalkygames123/eslint-config/compare/v2.1.0...v2.1.1) (2021-08-29)
+
+
+### Reverts
+
+* revert "fix: remove unnecessary `parserOptions`" ([2a02667](https://github.com/chalkygames123/eslint-config/commit/2a02667be8f4b287d5bcce4e219d092f022037a7)), closes [/github.com/airbnb/javascript/blob/f5c14cae2ff58000cead98290b8ec4b54dda2f14/packages/eslint-config-airbnb-base/rules/es6.js#L6](https://github.com/chalkygames123//github.com/airbnb/javascript/blob/f5c14cae2ff58000cead98290b8ec4b54dda2f14/packages/eslint-config-airbnb-base/rules/es6.js/issues/L6)
+
 ## [2.1.0](https://github.com/chalkygames123/eslint-config/compare/v2.0.1...v2.1.0) (2021-08-22)
 
 
