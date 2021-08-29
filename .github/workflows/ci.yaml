@@ -14,6 +14,7 @@ jobs:
       - uses: actions/setup-node@v2
         with:
           node-version: '15'
+          cache: npm
 
       - run: npm install-ci-test
 
@@ -30,6 +31,7 @@ jobs:
       - uses: actions/setup-node@v2
         with:
           node-version: '15'
+          cache: npm
 
       - run: npm ci
 
