@@ -4,7 +4,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "description": "Default eslint config used by @chalkygames123.",
+  "description": "Default ESLint config used by @chalkygames123",
   "license": "MIT",
   "repository": {
     "type": "git",
