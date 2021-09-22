@@ -57,6 +57,6 @@
     "semantic-release": "17.4.7"
   },
   "volta": {
-    "node": "16.9.1"
+    "node": "16.10.0"
   }
 }
