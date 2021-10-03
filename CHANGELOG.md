@@ -1,3 +1,10 @@
+## [2.2.0](https://github.com/chalkygames123/eslint-config/compare/v2.1.1...v2.2.0) (2021-10-03)
+
+
+### Features
+
+* use `latest` for `ecmaVersion` ([d3cf69c](https://github.com/chalkygames123/eslint-config/commit/d3cf69c4c3ceef15cd2c82e6ed40837a82e2ab84))
+
 ### [2.1.1](https://github.com/chalkygames123/eslint-config/compare/v2.1.0...v2.1.1) (2021-08-29)
 
 
