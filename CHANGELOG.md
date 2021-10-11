@@ -1,3 +1,10 @@
+### [3.0.1](https://github.com/chalkygames123/eslint-config/compare/v3.0.0...v3.0.1) (2021-10-11)
+
+
+### Bug Fixes
+
+* **deps:** pin dependencies ([392d4bc](https://github.com/chalkygames123/eslint-config/commit/392d4bcf293123c3e04ba2b7de0724f0d8bb7e6c))
+
 ## [3.0.0](https://github.com/chalkygames123/eslint-config/compare/v2.2.0...v3.0.0) (2021-10-11)
 
 
