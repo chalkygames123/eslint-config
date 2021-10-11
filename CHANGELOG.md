@@ -1,3 +1,14 @@
+## [3.0.0](https://github.com/chalkygames123/eslint-config/compare/v2.2.0...v3.0.0) (2021-10-11)
+
+
+### ⚠ BREAKING CHANGES
+
+* enable `import/no-anonymous-default-export` rule
+
+### Features
+
+* enable `import/no-anonymous-default-export` rule ([8b09821](https://github.com/chalkygames123/eslint-config/commit/8b098210c1c82145b0bb6847ace5a06264729049))
+
 ## [2.2.0](https://github.com/chalkygames123/eslint-config/compare/v2.1.1...v2.2.0) (2021-10-03)
 
 
