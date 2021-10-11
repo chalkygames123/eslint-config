@@ -19,6 +19,7 @@ module.exports = {
         allowWholeFile: true,
       },
     ],
+    'import/no-anonymous-default-export': 'error',
     'import/order': [
       'error',
       {
