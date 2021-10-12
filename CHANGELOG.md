@@ -1,3 +1,10 @@
+### [3.0.2](https://github.com/chalkygames123/eslint-config/compare/v3.0.1...v3.0.2) (2021-10-12)
+
+
+### Bug Fixes
+
+* **deps:** move plugins to "peerDependencies" from "dependencies" ([a747bd0](https://github.com/chalkygames123/eslint-config/commit/a747bd037da1603bc444d0323dcb0730d7a59ead))
+
 ### [3.0.1](https://github.com/chalkygames123/eslint-config/compare/v3.0.0...v3.0.1) (2021-10-11)
 
 
