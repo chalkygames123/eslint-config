@@ -21,8 +21,7 @@
     "format": "run-s \"format-check -- --write\"",
     "format-check": "prettier . --check",
     "lint": "eslint .",
-    "prepare": "husky install",
-    "test": "run-p format-check lint"
+    "prepare": "husky install"
   },
   "files": [
     "index.js"
