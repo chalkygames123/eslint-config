@@ -17,10 +17,14 @@
   },
   "main": "index.js",
   "scripts": {
-    "fix": "run-s \"lint -- --fix\"",
-    "format": "run-s \"format-check -- --write\"",
-    "format-check": "prettier . --check",
-    "lint": "eslint .",
+    "check": "run-p check:* --continue-on-error",
+    "check:prettier": "prettier . --check",
+    "fix": "run-p fix:* --continue-on-error",
+    "fix:eslint": "npm run lint:eslint -- --fix",
+    "format": "run-p format:* --continue-on-error",
+    "format:prettier": "npm run check:prettier -- --write",
+    "lint": "run-p lint:* --continue-on-error",
+    "lint:eslint": "eslint .",
     "prepare": "husky install"
   },
   "files": [
