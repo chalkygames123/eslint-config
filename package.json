@@ -40,7 +40,7 @@
   },
   "dependencies": {
     "eslint-config-airbnb-base": "14.2.1",
-    "eslint-import-resolver-webpack": "0.13.1",
+    "eslint-import-resolver-webpack": "0.13.2",
     "eslint-plugin-eslint-comments": "3.2.0",
     "eslint-plugin-import": "2.25.2",
     "eslint-plugin-regexp": "1.4.1"
