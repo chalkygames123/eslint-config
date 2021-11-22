@@ -1,3 +1,10 @@
+### [3.0.7](https://github.com/chalkygames123/eslint-config/compare/v3.0.6...v3.0.7) (2021-11-22)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-import to v2.25.3 ([3ffb504](https://github.com/chalkygames123/eslint-config/commit/3ffb5044647fbc96e1ed260b0e4446cc8a5971c9))
+
 ### [3.0.6](https://github.com/chalkygames123/eslint-config/compare/v3.0.5...v3.0.6) (2021-11-22)
 
 
