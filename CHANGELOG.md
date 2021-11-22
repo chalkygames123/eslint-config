@@ -1,3 +1,14 @@
+## [4.0.0](https://github.com/chalkygames123/eslint-config/compare/v3.0.7...v4.0.0) (2021-11-22)
+
+
+### ⚠ BREAKING CHANGES
+
+* **deps:** update dependency eslint-config-airbnb-base to v15 (#31)
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-config-airbnb-base to v15 ([#31](https://github.com/chalkygames123/eslint-config/issues/31)) ([32b2c91](https://github.com/chalkygames123/eslint-config/commit/32b2c916dff1d9cc77530e51f807d7a422d41530))
+
 ### [3.0.7](https://github.com/chalkygames123/eslint-config/compare/v3.0.6...v3.0.7) (2021-11-22)
 
 
