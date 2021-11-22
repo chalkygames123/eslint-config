@@ -1,3 +1,10 @@
+### [3.0.5](https://github.com/chalkygames123/eslint-config/compare/v3.0.4...v3.0.5) (2021-11-22)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-import-resolver-webpack to v0.13.2 ([c88e9d0](https://github.com/chalkygames123/eslint-config/commit/c88e9d0639c7f26996da3a608838bbf47e8fa49e))
+
 ### [3.0.4](https://github.com/chalkygames123/eslint-config/compare/v3.0.3...v3.0.4) (2021-10-19)
 
 
