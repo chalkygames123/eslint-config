@@ -1,3 +1,10 @@
+### [4.0.1](https://github.com/chalkygames123/eslint-config/compare/v4.0.0...v4.0.1) (2021-11-23)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-regexp to v1.5.1 ([1094238](https://github.com/chalkygames123/eslint-config/commit/10942382f4973be6c7a288315b50e9faeb436793))
+
 ## [4.0.0](https://github.com/chalkygames123/eslint-config/compare/v3.0.7...v4.0.0) (2021-11-22)
 
 
