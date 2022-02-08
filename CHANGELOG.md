@@ -1,3 +1,10 @@
+### [4.0.2](https://github.com/chalkygames123/eslint-config/compare/v4.0.1...v4.0.2) (2022-02-08)
+
+
+### Bug Fixes
+
+* turn off `no-restricted-syntax` rule ([670cc7c](https://github.com/chalkygames123/eslint-config/commit/670cc7ca6bcaa2d1d321a259ef74b7f26b70dd7f))
+
 ### [4.0.1](https://github.com/chalkygames123/eslint-config/compare/v4.0.0...v4.0.1) (2021-11-23)
 
 
