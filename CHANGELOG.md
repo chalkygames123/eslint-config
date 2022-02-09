@@ -1,3 +1,10 @@
+### [4.0.3](https://github.com/chalkygames123/eslint-config/compare/v4.0.2...v4.0.3) (2022-02-09)
+
+
+### Bug Fixes
+
+* turn off `no-continue` rule ([1d58a7f](https://github.com/chalkygames123/eslint-config/commit/1d58a7fc067d1688f726e48322b7c6421bffeb63))
+
 ### [4.0.2](https://github.com/chalkygames123/eslint-config/compare/v4.0.1...v4.0.2) (2022-02-08)
 
 
