@@ -1,3 +1,10 @@
+### [4.0.4](https://github.com/chalkygames123/eslint-config/compare/v4.0.3...v4.0.4) (2022-03-14)
+
+
+### Bug Fixes
+
+* turn off `import/order` rule in favor of prettier-plugin-organize-imports ([aec5368](https://github.com/chalkygames123/eslint-config/commit/aec5368633cf4f66b8eaa1ec48322a2d18da6bb3))
+
 ### [4.0.3](https://github.com/chalkygames123/eslint-config/compare/v4.0.2...v4.0.3) (2022-02-09)
 
 
