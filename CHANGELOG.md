@@ -12,28 +12,28 @@
 
 * **deps:** update dependency eslint-plugin-import to v2.26.0 ([b19ca2c](https://github.com/chalkygames123/eslint-config/commit/b19ca2ceec009fb35de78b55d55825370aeac2fb))
 
-### [4.0.4](https://github.com/chalkygames123/eslint-config/compare/v4.0.3...v4.0.4) (2022-03-14)
+## [4.0.4](https://github.com/chalkygames123/eslint-config/compare/v4.0.3...v4.0.4) (2022-03-14)
 
 
 ### Bug Fixes
 
 * turn off `import/order` rule in favor of prettier-plugin-organize-imports ([aec5368](https://github.com/chalkygames123/eslint-config/commit/aec5368633cf4f66b8eaa1ec48322a2d18da6bb3))
 
-### [4.0.3](https://github.com/chalkygames123/eslint-config/compare/v4.0.2...v4.0.3) (2022-02-09)
+## [4.0.3](https://github.com/chalkygames123/eslint-config/compare/v4.0.2...v4.0.3) (2022-02-09)
 
 
 ### Bug Fixes
 
 * turn off `no-continue` rule ([1d58a7f](https://github.com/chalkygames123/eslint-config/commit/1d58a7fc067d1688f726e48322b7c6421bffeb63))
 
-### [4.0.2](https://github.com/chalkygames123/eslint-config/compare/v4.0.1...v4.0.2) (2022-02-08)
+## [4.0.2](https://github.com/chalkygames123/eslint-config/compare/v4.0.1...v4.0.2) (2022-02-08)
 
 
 ### Bug Fixes
 
 * turn off `no-restricted-syntax` rule ([670cc7c](https://github.com/chalkygames123/eslint-config/commit/670cc7ca6bcaa2d1d321a259ef74b7f26b70dd7f))
 
-### [4.0.1](https://github.com/chalkygames123/eslint-config/compare/v4.0.0...v4.0.1) (2021-11-23)
+## [4.0.1](https://github.com/chalkygames123/eslint-config/compare/v4.0.0...v4.0.1) (2021-11-23)
 
 
 ### Bug Fixes
@@ -51,49 +51,49 @@
 
 * **deps:** update dependency eslint-config-airbnb-base to v15 ([#31](https://github.com/chalkygames123/eslint-config/issues/31)) ([32b2c91](https://github.com/chalkygames123/eslint-config/commit/32b2c916dff1d9cc77530e51f807d7a422d41530))
 
-### [3.0.7](https://github.com/chalkygames123/eslint-config/compare/v3.0.6...v3.0.7) (2021-11-22)
+## [3.0.7](https://github.com/chalkygames123/eslint-config/compare/v3.0.6...v3.0.7) (2021-11-22)
 
 
 ### Bug Fixes
 
 * **deps:** update dependency eslint-plugin-import to v2.25.3 ([3ffb504](https://github.com/chalkygames123/eslint-config/commit/3ffb5044647fbc96e1ed260b0e4446cc8a5971c9))
 
-### [3.0.6](https://github.com/chalkygames123/eslint-config/compare/v3.0.5...v3.0.6) (2021-11-22)
+## [3.0.6](https://github.com/chalkygames123/eslint-config/compare/v3.0.5...v3.0.6) (2021-11-22)
 
 
 ### Bug Fixes
 
 * **deps:** update dependency eslint-plugin-regexp to v1.5.0 ([3d358d9](https://github.com/chalkygames123/eslint-config/commit/3d358d9f206293d2dcfd4d15699e08a49f63a065))
 
-### [3.0.5](https://github.com/chalkygames123/eslint-config/compare/v3.0.4...v3.0.5) (2021-11-22)
+## [3.0.5](https://github.com/chalkygames123/eslint-config/compare/v3.0.4...v3.0.5) (2021-11-22)
 
 
 ### Bug Fixes
 
 * **deps:** update dependency eslint-import-resolver-webpack to v0.13.2 ([c88e9d0](https://github.com/chalkygames123/eslint-config/commit/c88e9d0639c7f26996da3a608838bbf47e8fa49e))
 
-### [3.0.4](https://github.com/chalkygames123/eslint-config/compare/v3.0.3...v3.0.4) (2021-10-19)
+## [3.0.4](https://github.com/chalkygames123/eslint-config/compare/v3.0.3...v3.0.4) (2021-10-19)
 
 
 ### Bug Fixes
 
 * **deps:** update dependency eslint-plugin-import to v2.25.2 ([c531fd5](https://github.com/chalkygames123/eslint-config/commit/c531fd5bf2d9754b5564013911f1f0571004e62e))
 
-### [3.0.3](https://github.com/chalkygames123/eslint-config/compare/v3.0.2...v3.0.3) (2021-10-19)
+## [3.0.3](https://github.com/chalkygames123/eslint-config/compare/v3.0.2...v3.0.3) (2021-10-19)
 
 
 ### Bug Fixes
 
 * **deps:** move back plugins to "dependencies" from "peerDependencies" ([6285186](https://github.com/chalkygames123/eslint-config/commit/6285186ac79c6b46bed99ef88623c8d6de06a293))
 
-### [3.0.2](https://github.com/chalkygames123/eslint-config/compare/v3.0.1...v3.0.2) (2021-10-12)
+## [3.0.2](https://github.com/chalkygames123/eslint-config/compare/v3.0.1...v3.0.2) (2021-10-12)
 
 
 ### Bug Fixes
 
 * **deps:** move plugins to "peerDependencies" from "dependencies" ([a747bd0](https://github.com/chalkygames123/eslint-config/commit/a747bd037da1603bc444d0323dcb0730d7a59ead))
 
-### [3.0.1](https://github.com/chalkygames123/eslint-config/compare/v3.0.0...v3.0.1) (2021-10-11)
+## [3.0.1](https://github.com/chalkygames123/eslint-config/compare/v3.0.0...v3.0.1) (2021-10-11)
 
 
 ### Bug Fixes
@@ -118,7 +118,7 @@
 
 * use `latest` for `ecmaVersion` ([d3cf69c](https://github.com/chalkygames123/eslint-config/commit/d3cf69c4c3ceef15cd2c82e6ed40837a82e2ab84))
 
-### [2.1.1](https://github.com/chalkygames123/eslint-config/compare/v2.1.0...v2.1.1) (2021-08-29)
+## [2.1.1](https://github.com/chalkygames123/eslint-config/compare/v2.1.0...v2.1.1) (2021-08-29)
 
 
 ### Reverts
@@ -132,7 +132,7 @@
 
 * add `eslint-plugin-regexp` plugin ([67425ec](https://github.com/chalkygames123/eslint-config/commit/67425ecf06563aa432bf9b9074c59c99b8c3dfe8))
 
-### [2.0.1](https://github.com/chalkygames123/eslint-config/compare/v2.0.0...v2.0.1) (2021-08-16)
+## [2.0.1](https://github.com/chalkygames123/eslint-config/compare/v2.0.0...v2.0.1) (2021-08-16)
 
 
 ### Bug Fixes
