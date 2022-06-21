@@ -20,6 +20,6 @@ $ npm install @chalkygames123/eslint-config --save-dev
 // .eslintrc.js
 
 module.exports = {
-  extends: ['@chalkygames123'],
-}
+	extends: ['@chalkygames123'],
+};
 ```

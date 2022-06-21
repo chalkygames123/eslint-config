@@ -1,65 +1,65 @@
 {
-  "name": "@chalkygames123/eslint-config",
-  "version": "4.0.6",
-  "publishConfig": {
-    "access": "public"
-  },
-  "description": "Default ESLint config used by @chalkygames123",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/chalkygames123/eslint-config.git"
-  },
-  "author": "Takuya Fukuju <chalkygames123@gmail.com>",
-  "homepage": "https://github.com/chalkygames123/eslint-config#readme",
-  "bugs": {
-    "url": "https://github.com/chalkygames123/eslint-config/issues"
-  },
-  "main": "index.js",
-  "scripts": {
-    "check": "run-p check:* --continue-on-error",
-    "check:prettier": "prettier . --check",
-    "fix": "run-p fix:* --continue-on-error",
-    "fix:eslint": "npm run lint:eslint -- --fix",
-    "format": "run-p format:* --continue-on-error",
-    "format:prettier": "npm run check:prettier -- --write",
-    "lint": "run-p lint:* --continue-on-error",
-    "lint:eslint": "eslint .",
-    "prepare": "husky install"
-  },
-  "files": [
-    "index.js"
-  ],
-  "keywords": [
-    "eslint",
-    "eslintconfig",
-    "javascript"
-  ],
-  "peerDependencies": {
-    "eslint": ">=7.8.0"
-  },
-  "dependencies": {
-    "eslint-config-airbnb-base": "15.0.0",
-    "eslint-import-resolver-webpack": "0.13.2",
-    "eslint-plugin-eslint-comments": "3.2.0",
-    "eslint-plugin-import": "2.26.0",
-    "eslint-plugin-regexp": "1.7.0"
-  },
-  "devDependencies": {
-    "@commitlint/cli": "17.0.2",
-    "@commitlint/config-conventional": "17.0.2",
-    "@semantic-release/changelog": "6.0.1",
-    "@semantic-release/git": "10.0.1",
-    "conventional-changelog-conventionalcommits": "5.0.0",
-    "eslint-config-prettier": "8.5.0",
-    "husky": "8.0.1",
-    "lint-staged": "13.0.0",
-    "npm-run-all": "4.1.5",
-    "prettier": "2.6.2",
-    "prettier-plugin-package": "1.3.0",
-    "semantic-release": "19.0.2"
-  },
-  "volta": {
-    "node": "18.3.0"
-  }
+	"name": "@chalkygames123/eslint-config",
+	"version": "4.0.6",
+	"publishConfig": {
+		"access": "public"
+	},
+	"description": "Default ESLint config used by @chalkygames123",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/chalkygames123/eslint-config.git"
+	},
+	"author": "Takuya Fukuju <chalkygames123@gmail.com>",
+	"homepage": "https://github.com/chalkygames123/eslint-config#readme",
+	"bugs": {
+		"url": "https://github.com/chalkygames123/eslint-config/issues"
+	},
+	"main": "index.js",
+	"scripts": {
+		"check": "run-p check:* --continue-on-error",
+		"check:prettier": "prettier . --check",
+		"fix": "run-p fix:* --continue-on-error",
+		"fix:eslint": "npm run lint:eslint -- --fix",
+		"format": "run-p format:* --continue-on-error",
+		"format:prettier": "npm run check:prettier -- --write",
+		"lint": "run-p lint:* --continue-on-error",
+		"lint:eslint": "eslint .",
+		"prepare": "husky install"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"eslint",
+		"eslintconfig",
+		"javascript"
+	],
+	"peerDependencies": {
+		"eslint": ">=7.8.0"
+	},
+	"dependencies": {
+		"eslint-config-airbnb-base": "15.0.0",
+		"eslint-import-resolver-webpack": "0.13.2",
+		"eslint-plugin-eslint-comments": "3.2.0",
+		"eslint-plugin-import": "2.26.0",
+		"eslint-plugin-regexp": "1.7.0"
+	},
+	"devDependencies": {
+		"@commitlint/cli": "17.0.2",
+		"@commitlint/config-conventional": "17.0.2",
+		"@semantic-release/changelog": "6.0.1",
+		"@semantic-release/git": "10.0.1",
+		"conventional-changelog-conventionalcommits": "5.0.0",
+		"eslint-config-prettier": "8.5.0",
+		"husky": "8.0.1",
+		"lint-staged": "13.0.0",
+		"npm-run-all": "4.1.5",
+		"prettier": "2.6.2",
+		"prettier-plugin-package": "1.3.0",
+		"semantic-release": "19.0.2"
+	},
+	"volta": {
+		"node": "18.3.0"
+	}
 }
