@@ -1,3 +1,10 @@
+## [5.1.0](https://github.com/chalkygames123/eslint-config/compare/v5.0.0...v5.1.0) (2022-08-18)
+
+
+### Features
+
+* update env from `es2021` to `es2022` ([9c7dd03](https://github.com/chalkygames123/eslint-config/commit/9c7dd03583c524466bd765475efaaa8d2e03db22))
+
 ## [5.0.0](https://github.com/chalkygames123/eslint-config/compare/v4.0.6...v5.0.0) (2022-08-18)
 
 
