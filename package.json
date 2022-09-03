@@ -10,7 +10,10 @@
 		"type": "git",
 		"url": "git+https://github.com/chalkygames123/eslint-config.git"
 	},
-	"author": "Takuya Fukuju <chalkygames123@gmail.com>",
+	"author": {
+		"name": "Takuya Fukuju",
+		"email": "chalkygames123@gmail.com"
+	},
 	"homepage": "https://github.com/chalkygames123/eslint-config#readme",
 	"bugs": {
 		"url": "https://github.com/chalkygames123/eslint-config/issues"
