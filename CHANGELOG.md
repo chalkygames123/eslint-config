@@ -1,3 +1,14 @@
+## [6.0.0-beta.1](https://github.com/chalkygames123/eslint-config/compare/v5.2.0...v6.0.0-beta.1) (2023-02-12)
+
+
+### ⚠ BREAKING CHANGES
+
+* change everything
+
+### Features
+
+* change everything ([bb36d8a](https://github.com/chalkygames123/eslint-config/commit/bb36d8af8c5cb705d0d318818510c8cc218f76fe))
+
 ## [5.2.0](https://github.com/chalkygames123/eslint-config/compare/v5.1.0...v5.2.0) (2022-08-22)
 
 
