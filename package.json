@@ -19,6 +19,9 @@
 		"url": "https://github.com/chalkygames123/eslint-config/issues"
 	},
 	"main": "index.js",
+	"engines": {
+		"node": "19.6.0"
+	},
 	"scripts": {
 		"check": "run-p check:* --continue-on-error",
 		"check:prettier": "prettier . --check",
