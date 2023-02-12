@@ -1,3 +1,10 @@
+## [6.0.0-beta.2](https://github.com/chalkygames123/eslint-config/compare/v6.0.0-beta.1...v6.0.0-beta.2) (2023-02-12)
+
+
+### Bug Fixes
+
+* **deps:** move `eslint-define-config` to `peerDependencies` from `dependencies` ([6faf847](https://github.com/chalkygames123/eslint-config/commit/6faf84742818912e44c46e472243f2aafb131e2a))
+
 ## [6.0.0-beta.1](https://github.com/chalkygames123/eslint-config/compare/v5.2.0...v6.0.0-beta.1) (2023-02-12)
 
 
