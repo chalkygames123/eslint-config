@@ -24,9 +24,14 @@ const tsPluginConfigs = [
 
 const nodePluginConfigs = ['plugin:n/recommended'];
 
-const browserPluginConfigs = [
+const testPluginConfigs = [
 	'plugin:es-x/restrict-to-es2021',
 	'plugin:jest/recommended',
+	'plugin:n/recommended',
+];
+
+const browserPluginConfigs = [
+	'plugin:es-x/restrict-to-es2021',
 	'plugin:vue/vue3-recommended',
 ];
 
@@ -141,6 +146,35 @@ const nodeTsConfigOverride = {
 	},
 };
 
+const testConfigOverride = {
+	files: ['**/__tests__/**/*.js?(x)', '**/?(*.)+(spec|test).js?(x)'],
+	extends: ['xo', ...commonPluginConfigs, ...testPluginConfigs, 'prettier'],
+	rules: {
+		...jsRules,
+	},
+};
+
+const testTsConfigOverride = {
+	files: ['**/__tests__/**/*.ts?(x)', '**/?(*.)+(spec|test).ts?(x)'],
+	extends: [
+		'xo',
+		'xo-typescript',
+		...commonPluginConfigs,
+		...tsPluginConfigs,
+		...testPluginConfigs,
+		'prettier',
+	],
+	rules: {
+		...tsRules,
+	},
+	settings: {
+		'import/resolver': {
+			node: true,
+			typescript: true,
+		},
+	},
+};
+
 const browserConfigOverride = {
 	files: browserDirectories.map((item) => join(item, '**/*.{js,mjs,cjs,jsx}')),
 	extends: [
@@ -226,6 +260,8 @@ module.exports = defineConfig({
 	overrides: [
 		nodeConfigOverride,
 		nodeTsConfigOverride,
+		testConfigOverride,
+		testTsConfigOverride,
 		browserConfigOverride,
 		browserTsConfigOverride,
 		scriptConfigOverride,
