@@ -1,3 +1,10 @@
+## [6.0.0-beta.6](https://github.com/chalkygames123/eslint-config/compare/v6.0.0-beta.5...v6.0.0-beta.6) (2023-02-13)
+
+
+### Bug Fixes
+
+* extend `plugin:jest/style` for test environment ([bf2b0c7](https://github.com/chalkygames123/eslint-config/commit/bf2b0c7e24b187fa3bcf85fcbc030e6d261d7c23))
+
 ## [6.0.0-beta.5](https://github.com/chalkygames123/eslint-config/compare/v6.0.0-beta.4...v6.0.0-beta.5) (2023-02-13)
 
 
