@@ -1,3 +1,10 @@
+## [6.0.0-beta.4](https://github.com/chalkygames123/eslint-config/compare/v6.0.0-beta.3...v6.0.0-beta.4) (2023-02-13)
+
+
+### Bug Fixes
+
+* replace `eslint-plugin-eslint-comments` with `@eslint-community/eslint-plugin-eslint-comments` ([ec3b092](https://github.com/chalkygames123/eslint-config/commit/ec3b092ae180b521589562c05c5afbb1ce00df25))
+
 ## [6.0.0-beta.3](https://github.com/chalkygames123/eslint-config/compare/v6.0.0-beta.2...v6.0.0-beta.3) (2023-02-13)
 
 
