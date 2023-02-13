@@ -2,5 +2,5 @@
 
 module.exports = {
 	root: true,
-	extends: ['./index.cjs'],
+	extends: ['./index.cjs', 'prettier'],
 };
