@@ -1,3 +1,10 @@
+## [6.0.0-beta.3](https://github.com/chalkygames123/eslint-config/compare/v6.0.0-beta.2...v6.0.0-beta.3) (2023-02-13)
+
+
+### Bug Fixes
+
+* separate config override for test environment from one for browser environment ([f49cc33](https://github.com/chalkygames123/eslint-config/commit/f49cc338675ef2aa22ca457c27c1742aeb1cb4b9))
+
 ## [6.0.0-beta.2](https://github.com/chalkygames123/eslint-config/compare/v6.0.0-beta.1...v6.0.0-beta.2) (2023-02-12)
 
 
