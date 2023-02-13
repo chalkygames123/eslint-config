@@ -1,3 +1,15 @@
+## [6.0.0-beta.5](https://github.com/chalkygames123/eslint-config/compare/v6.0.0-beta.4...v6.0.0-beta.5) (2023-02-13)
+
+
+### Bug Fixes
+
+* stop extending `eslint-config-prettier` ([574da9c](https://github.com/chalkygames123/eslint-config/commit/574da9c75de8ecd4bf5df674206bc31c4463ecc6))
+
+
+### Reverts
+
+* "chore(eslint): stop extending `eslint-config-prettier`" ([42fe034](https://github.com/chalkygames123/eslint-config/commit/42fe0342e3917b326d4f87353f38b31a6691dad2))
+
 ## [6.0.0-beta.4](https://github.com/chalkygames123/eslint-config/compare/v6.0.0-beta.3...v6.0.0-beta.4) (2023-02-13)
 
 
