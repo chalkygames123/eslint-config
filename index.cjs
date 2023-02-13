@@ -7,7 +7,7 @@ const { join } = require('node:path');
 const { defineConfig } = require('eslint-define-config');
 
 const commonPluginConfigs = [
-	'plugin:eslint-comments/recommended',
+	'plugin:@eslint-community/eslint-comments/recommended',
 	'plugin:import/recommended',
 	'plugin:jsdoc/recommended',
 	'plugin:no-use-extend-native/recommended',
@@ -49,14 +49,14 @@ const browserParserOptions = {
  * Based on: https://github.com/xojs/xo/blob/613011be50d0c8ea1b30df850557fd07552f285b/config/plugins.cjs
  */
 const xoRules = {
-	'eslint-comments/disable-enable-pair': [
+	'@eslint-community/eslint-comments/disable-enable-pair': [
 		'error',
 		{
 			allowWholeFile: true,
 		},
 	],
-	'eslint-comments/no-unlimited-disable': 'off',
-	'eslint-comments/no-unused-disable': 'error',
+	'@eslint-community/eslint-comments/no-unlimited-disable': 'off',
+	'@eslint-community/eslint-comments/no-unused-disable': 'error',
 	'n/no-extraneous-import': 'off',
 	'n/no-extraneous-require': 'off',
 	'n/no-missing-import': 'off',
