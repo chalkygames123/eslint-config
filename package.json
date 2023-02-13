@@ -20,7 +20,7 @@
 	},
 	"main": "index.cjs",
 	"engines": {
-		"node": "19.6.0"
+		"node": ">=14.0.0"
 	},
 	"scripts": {
 		"check": "run-p check:* --continue-on-error",
