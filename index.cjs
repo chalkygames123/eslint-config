@@ -27,6 +27,7 @@ const nodePluginConfigs = ['plugin:n/recommended'];
 const testPluginConfigs = [
 	'plugin:es-x/restrict-to-es2021',
 	'plugin:jest/recommended',
+	'plugin:jest/style',
 	'plugin:n/recommended',
 ];
 
