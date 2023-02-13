@@ -112,7 +112,7 @@ const browserDirectories = ['assets/scripts', 'modules'];
 const nodeConfigOverride = {
 	files: '*.{js,mjs,cjs,jsx}',
 	excludedFiles: browserDirectories.map((item) => join(item, '**')),
-	extends: ['xo', ...commonPluginConfigs, ...nodePluginConfigs, 'prettier'],
+	extends: ['xo', ...commonPluginConfigs, ...nodePluginConfigs],
 	parserOptions: {
 		...nodeParserOptions,
 	},
@@ -130,7 +130,6 @@ const nodeTsConfigOverride = {
 		...commonPluginConfigs,
 		...tsPluginConfigs,
 		...nodePluginConfigs,
-		'prettier',
 	],
 	parserOptions: {
 		...nodeParserOptions,
@@ -148,7 +147,7 @@ const nodeTsConfigOverride = {
 
 const testConfigOverride = {
 	files: ['**/__tests__/**/*.js?(x)', '**/?(*.)+(spec|test).js?(x)'],
-	extends: ['xo', ...commonPluginConfigs, ...testPluginConfigs, 'prettier'],
+	extends: ['xo', ...commonPluginConfigs, ...testPluginConfigs],
 	rules: {
 		...jsRules,
 	},
@@ -162,7 +161,6 @@ const testTsConfigOverride = {
 		...commonPluginConfigs,
 		...tsPluginConfigs,
 		...testPluginConfigs,
-		'prettier',
 	],
 	rules: {
 		...tsRules,
@@ -177,12 +175,7 @@ const testTsConfigOverride = {
 
 const browserConfigOverride = {
 	files: browserDirectories.map((item) => join(item, '**/*.{js,mjs,cjs,jsx}')),
-	extends: [
-		'xo/browser',
-		...commonPluginConfigs,
-		...browserPluginConfigs,
-		'prettier',
-	],
+	extends: ['xo/browser', ...commonPluginConfigs, ...browserPluginConfigs],
 	parserOptions: {
 		...browserParserOptions,
 	},
@@ -204,7 +197,6 @@ const browserTsConfigOverride = {
 		...commonPluginConfigs,
 		...tsPluginConfigs,
 		...browserPluginConfigs,
-		'prettier',
 	],
 	parserOptions: {
 		...browserParserOptions,
