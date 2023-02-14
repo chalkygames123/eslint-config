@@ -216,6 +216,9 @@ const browserTsConfigOverride = {
 		...tsRules,
 	},
 	settings: {
+		'es-x': {
+			aggressive: true,
+		},
 		'import/resolver': {
 			typescript: true,
 			webpack: true,
