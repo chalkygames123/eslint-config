@@ -25,16 +25,12 @@ const tsPluginConfigs = [
 const nodePluginConfigs = ['plugin:n/recommended'];
 
 const testPluginConfigs = [
-	'plugin:es-x/restrict-to-es2021',
 	'plugin:jest/recommended',
 	'plugin:jest/style',
 	'plugin:n/recommended',
 ];
 
-const browserPluginConfigs = [
-	'plugin:es-x/restrict-to-es2021',
-	'plugin:vue/vue3-recommended',
-];
+const browserPluginConfigs = ['plugin:vue/vue3-recommended'];
 
 const nodeParserOptions = {
 	// TODO: Remove this override when the following issue is resolved: https://github.com/eslint-community/eslint-plugin-n/issues/42
