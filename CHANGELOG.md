@@ -1,3 +1,10 @@
+## [6.0.0-beta.7](https://github.com/chalkygames123/eslint-config/compare/v6.0.0-beta.6...v6.0.0-beta.7) (2023-02-14)
+
+
+### Bug Fixes
+
+* enable `aggressive` mode of `eslint-plugin-es-x` for TypeScript ([8ac19a7](https://github.com/chalkygames123/eslint-config/commit/8ac19a776a59d86589874a140a5eb80e07adc011))
+
 ## [6.0.0-beta.6](https://github.com/chalkygames123/eslint-config/compare/v6.0.0-beta.5...v6.0.0-beta.6) (2023-02-13)
 
 
