@@ -1,3 +1,10 @@
+## [6.0.0-beta.8](https://github.com/chalkygames123/eslint-config/compare/v6.0.0-beta.7...v6.0.0-beta.8) (2023-02-14)
+
+
+### Bug Fixes
+
+* stop extending `plugin:es-x/restrict-to-es2021` ([e63a578](https://github.com/chalkygames123/eslint-config/commit/e63a5783fff4f65868dd72eb7414f9ed2f7df806))
+
 ## [6.0.0-beta.7](https://github.com/chalkygames123/eslint-config/compare/v6.0.0-beta.6...v6.0.0-beta.7) (2023-02-14)
 
 
