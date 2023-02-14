@@ -236,6 +236,7 @@ const scriptConfigOverride = {
 		strict: 'error',
 	},
 	parserOptions: {
+		// TODO: Remove this override when switching to flat config format.
 		sourceType: 'script',
 	},
 };
