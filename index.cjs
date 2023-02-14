@@ -139,6 +139,9 @@ const nodeTsConfigOverride = {
 		...tsRules,
 	},
 	settings: {
+		'es-x': {
+			aggressive: true,
+		},
 		'import/resolver': {
 			node: true,
 			typescript: true,
@@ -167,6 +170,9 @@ const testTsConfigOverride = {
 		...tsRules,
 	},
 	settings: {
+		'es-x': {
+			aggressive: true,
+		},
 		'import/resolver': {
 			node: true,
 			typescript: true,
