@@ -113,6 +113,7 @@ const nodeConfigOverride = {
 	parserOptions: {
 		...nodeParserOptions,
 	},
+	plugins: ['es-x'],
 	rules: {
 		...jsRules,
 	},
@@ -131,6 +132,7 @@ const nodeTsConfigOverride = {
 	parserOptions: {
 		...nodeParserOptions,
 	},
+	plugins: ['es-x'],
 	rules: {
 		...tsRules,
 	},
@@ -182,6 +184,7 @@ const browserConfigOverride = {
 	parserOptions: {
 		...browserParserOptions,
 	},
+	plugins: ['es-x'],
 	rules: {
 		...jsRules,
 	},
@@ -212,6 +215,7 @@ const browserTsConfigOverride = {
 			'tsconfig.browser.module.json',
 		],
 	},
+	plugins: ['es-x'],
 	rules: {
 		...tsRules,
 	},
