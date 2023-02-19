@@ -209,11 +209,7 @@ const browserTsConfigOverride = {
 		parser: {
 			ts: '@typescript-eslint/parser',
 		},
-		project: [
-			'tsconfig.json',
-			'tsconfig.browser.json',
-			'tsconfig.browser.module.json',
-		],
+		project: 'tsconfig.json',
 	},
 	plugins: ['es-x'],
 	rules: {
