@@ -1,3 +1,10 @@
+## [6.0.0-beta.11](https://github.com/chalkygames123/eslint-config/compare/v6.0.0-beta.10...v6.0.0-beta.11) (2023-02-19)
+
+
+### Bug Fixes
+
+* remove redundant `@typescript-eslint/parser`'s `project` option ([60b17c1](https://github.com/chalkygames123/eslint-config/commit/60b17c14808ea07f97611cfa634c3fd58d7ad161))
+
 ## [6.0.0-beta.10](https://github.com/chalkygames123/eslint-config/compare/v6.0.0-beta.9...v6.0.0-beta.10) (2023-02-19)
 
 
