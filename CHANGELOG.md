@@ -1,3 +1,10 @@
+## [6.0.0-beta.10](https://github.com/chalkygames123/eslint-config/compare/v6.0.0-beta.9...v6.0.0-beta.10) (2023-02-19)
+
+
+### Bug Fixes
+
+* remove unwanted paths from `@typescript-eslint/parser`'s `project` option ([720f166](https://github.com/chalkygames123/eslint-config/commit/720f1663da3cc5be0b422106562e68b75dbcd61b))
+
 ## [6.0.0-beta.9](https://github.com/chalkygames123/eslint-config/compare/v6.0.0-beta.8...v6.0.0-beta.9) (2023-02-14)
 
 
