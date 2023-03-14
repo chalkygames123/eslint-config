@@ -18,7 +18,6 @@
 	"bugs": {
 		"url": "https://github.com/chalkygames123/eslint-config/issues"
 	},
-	"main": "index.cjs",
 	"engines": {
 		"node": ">=14.0.0"
 	},
