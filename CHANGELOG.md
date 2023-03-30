@@ -1,3 +1,10 @@
+## [6.0.0-beta.12](https://github.com/chalkygames123/eslint-config/compare/v6.0.0-beta.11...v6.0.0-beta.12) (2023-03-30)
+
+
+### Bug Fixes
+
+* remove unnecessary `main` field from `package.json` ([6d598dc](https://github.com/chalkygames123/eslint-config/commit/6d598dcf394f1e1455d44f1df83e704dbaea066c))
+
 ## [6.0.0-beta.11](https://github.com/chalkygames123/eslint-config/compare/v6.0.0-beta.10...v6.0.0-beta.11) (2023-02-19)
 
 
