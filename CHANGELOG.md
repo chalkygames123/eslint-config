@@ -1,3 +1,10 @@
+## [6.0.0-beta.13](https://github.com/chalkygames123/eslint-config/compare/v6.0.0-beta.12...v6.0.0-beta.13) (2023-03-30)
+
+
+### Bug Fixes
+
+* turn on `import/no-anonymous-default-export` rule ([ee0353b](https://github.com/chalkygames123/eslint-config/commit/ee0353bb5c9d8868c46a1585c9071611d8aa5460))
+
 ## [6.0.0-beta.12](https://github.com/chalkygames123/eslint-config/compare/v6.0.0-beta.11...v6.0.0-beta.12) (2023-03-30)
 
 
