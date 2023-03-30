@@ -76,12 +76,6 @@ const myRules = {
 			includeCommonJSModuleExports: true,
 		},
 	],
-	'import/no-anonymous-default-export': [
-		'error',
-		{
-			allowCallExpression: false,
-		},
-	],
 	'import/prefer-default-export': 'off',
 	'unicorn/prevent-abbreviations': [
 		'error',
