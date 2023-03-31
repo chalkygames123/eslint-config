@@ -3,7 +3,6 @@
 'use strict';
 
 const { join } = require('node:path');
-
 const { defineConfig } = require('eslint-define-config');
 
 const commonPluginConfigs = [
