@@ -76,6 +76,12 @@ const myRules = {
 			includeCommonJSModuleExports: true,
 		},
 	],
+	'import/order': [
+		'error',
+		{
+			'newlines-between': 'never',
+		},
+	],
 	'import/prefer-default-export': 'off',
 	'unicorn/prevent-abbreviations': [
 		'error',
