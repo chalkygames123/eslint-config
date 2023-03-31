@@ -1,3 +1,15 @@
+## [6.0.0-beta.14](https://github.com/chalkygames123/eslint-config/compare/v6.0.0-beta.13...v6.0.0-beta.14) (2023-03-31)
+
+
+### Bug Fixes
+
+* turn on `import/order` rule ([b8b57f6](https://github.com/chalkygames123/eslint-config/commit/b8b57f661e5a5a5a6476e796b3b88155c5227ff0))
+
+
+### Reverts
+
+* "fix: turn on `import/no-anonymous-default-export` rule" ([2543359](https://github.com/chalkygames123/eslint-config/commit/25433598a6c3c8c5f8d97601d20bded4a2af96a6))
+
 ## [6.0.0-beta.13](https://github.com/chalkygames123/eslint-config/compare/v6.0.0-beta.12...v6.0.0-beta.13) (2023-03-30)
 
 
