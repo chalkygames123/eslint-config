@@ -20,7 +20,7 @@
 	},
 	"main": "index.js",
 	"engines": {
-		"node": "19.6.0"
+		"node": "19.9.0"
 	},
 	"scripts": {
 		"check": "run-p check:* --continue-on-error",
@@ -66,6 +66,6 @@
 		"semantic-release": "19.0.5"
 	},
 	"volta": {
-		"node": "19.6.0"
+		"node": "19.9.0"
 	}
 }
